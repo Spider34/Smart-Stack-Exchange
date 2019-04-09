@@ -1,0 +1,4 @@
+#Wed Apr 10 00:57:43 IST 2019
+base.0=/home/choudhary/Documents/Stack_exchange/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

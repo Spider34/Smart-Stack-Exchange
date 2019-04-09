@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5133887d3d7dba335e350c4c3255de97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/choudhary/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9123ffb4bdecbbc7efa33efad75b8b93/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a2b26036e906276def883b9f99b259ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b507ee6bc4d152e9223b4ace1d90e3f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4e1a4ed2438026f9e4005f3aef40c0a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f5d840c0e627820285044647065ef53d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6e4bd004822b71bbb723f75c2076dced/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e9841522944e22fe455458482bbe6061/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ab78a4ede77a4d88b1ce17ec687723c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5925d326a1a6db97723f7abab277ac43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/21ee0b098c8ecdccdf2c5e1f6d5b5c82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3c2b2720bb6f83d7ce0651f27b9f1b0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3f021a37352224cfffe9573d897578ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3e69cf8474f5857e94022c1b29f16af4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/54f768d233c2a80f916d70b445d98843/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2ce39dde3bd8eb17583e92910656501b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eabec45cefec82378a097fcd3d1ecec4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2e8bb00bc578a359f1b8fa20b5a650f2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a47f2452eab2c53fd43e52e3e95e4595/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a95d41004b7d7cfe06a39d5f8e14b549/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d282d914986fc0c0cb801ef587e74cce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/49fa988f01aa69034d1e75e7e06944b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f15ebecc6a63cb709b10c4d5c8575567/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/36f7c955fc4b192715840b675f2c6a0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8b581bc546b1f8003b1e3643f507771b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8d7cbb713afdabc1031b230dab7f379f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6af3c241772398b5c038367c2e4f4073/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/be5d684ca8e66deb3144a6088d18d276/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+		INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/choudhary/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9123ffb4bdecbbc7efa33efad75b8b93/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/choudhary/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9123ffb4bdecbbc7efa33efad75b8b93/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eabec45cefec82378a097fcd3d1ecec4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eabec45cefec82378a097fcd3d1ecec4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2e8bb00bc578a359f1b8fa20b5a650f2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2e8bb00bc578a359f1b8fa20b5a650f2/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eabec45cefec82378a097fcd3d1ecec4/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.choudhary.stack_exchange.MainActivity
+ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5133887d3d7dba335e350c4c3255de97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5133887d3d7dba335e350c4c3255de97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/choudhary/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9123ffb4bdecbbc7efa33efad75b8b93/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/choudhary/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9123ffb4bdecbbc7efa33efad75b8b93/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a2b26036e906276def883b9f99b259ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a2b26036e906276def883b9f99b259ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b507ee6bc4d152e9223b4ace1d90e3f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b507ee6bc4d152e9223b4ace1d90e3f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4e1a4ed2438026f9e4005f3aef40c0a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4e1a4ed2438026f9e4005f3aef40c0a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f5d840c0e627820285044647065ef53d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f5d840c0e627820285044647065ef53d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6e4bd004822b71bbb723f75c2076dced/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6e4bd004822b71bbb723f75c2076dced/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e9841522944e22fe455458482bbe6061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e9841522944e22fe455458482bbe6061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ab78a4ede77a4d88b1ce17ec687723c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ab78a4ede77a4d88b1ce17ec687723c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5925d326a1a6db97723f7abab277ac43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5925d326a1a6db97723f7abab277ac43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/21ee0b098c8ecdccdf2c5e1f6d5b5c82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/21ee0b098c8ecdccdf2c5e1f6d5b5c82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3c2b2720bb6f83d7ce0651f27b9f1b0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3c2b2720bb6f83d7ce0651f27b9f1b0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3f021a37352224cfffe9573d897578ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3f021a37352224cfffe9573d897578ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3e69cf8474f5857e94022c1b29f16af4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3e69cf8474f5857e94022c1b29f16af4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/54f768d233c2a80f916d70b445d98843/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/54f768d233c2a80f916d70b445d98843/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2ce39dde3bd8eb17583e92910656501b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2ce39dde3bd8eb17583e92910656501b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eabec45cefec82378a097fcd3d1ecec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eabec45cefec82378a097fcd3d1ecec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2e8bb00bc578a359f1b8fa20b5a650f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2e8bb00bc578a359f1b8fa20b5a650f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a47f2452eab2c53fd43e52e3e95e4595/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a47f2452eab2c53fd43e52e3e95e4595/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a95d41004b7d7cfe06a39d5f8e14b549/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a95d41004b7d7cfe06a39d5f8e14b549/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d282d914986fc0c0cb801ef587e74cce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d282d914986fc0c0cb801ef587e74cce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/49fa988f01aa69034d1e75e7e06944b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/49fa988f01aa69034d1e75e7e06944b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f15ebecc6a63cb709b10c4d5c8575567/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f15ebecc6a63cb709b10c4d5c8575567/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/36f7c955fc4b192715840b675f2c6a0b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/36f7c955fc4b192715840b675f2c6a0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8b581bc546b1f8003b1e3643f507771b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/choudhary/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8b581bc546b1f8003b1e3643f507771b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8d7cbb713afdabc1031b230dab7f379f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8d7cbb713afdabc1031b230dab7f379f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6af3c241772398b5c038367c2e4f4073/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6af3c241772398b5c038367c2e4f4073/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/be5d684ca8e66deb3144a6088d18d276/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/choudhary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/be5d684ca8e66deb3144a6088d18d276/AndroidManifest.xml:20:5-44
+INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+		INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+		ADDED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml
+		INJECTED from /home/choudhary/Documents/Stack_exchange/app/src/main/AndroidManifest.xml

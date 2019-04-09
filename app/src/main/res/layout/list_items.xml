@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:id="@+id/title"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="0.6"
+            android:textColor="@color/colorAccent"
+            android:layout_height="wrap_content"
+            android:text="Asker Name:"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/asker_name"
+            android:text="asker Name"
+            />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="0.6"
+            android:textColor="@color/colorAccent"
+            android:layout_height="wrap_content"
+            android:text="View Count:"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/view_count"
+            android:text="View Count"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="0.6"
+            android:textColor="@color/colorAccent"
+            android:layout_height="wrap_content"
+            android:text="Score"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/score"
+            android:text="Score"
+            android:gravity="right"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorAccent"
+            android:text="Creation Date:"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/creation_date"
+            android:text="Creation Date"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textColor="@color/colorAccent"
+                android:layout_height="wrap_content"
+                android:text="Last Edit Date"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                 android:id="@+id/lat_activity_date"
+                android:text="Last Activity Date" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>
